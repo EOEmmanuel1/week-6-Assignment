@@ -1,1 +1,1 @@
-# week-6-Assignment
+ mongodb+srv://EOEMMANUEL:****************@youthrive.zdq6x6n.mongodb.net/?retryWrites=true&w=majority&appName=youthrive
